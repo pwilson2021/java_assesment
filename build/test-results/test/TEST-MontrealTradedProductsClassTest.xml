@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MontrealTradedProductsClassTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-12T12:01:25" hostname="DESKTOP-JGANTT3" time="0.573">
+  <properties/>
+  <testcase name="totalValueOfDaysTradedProducts()" classname="MontrealTradedProductsClassTest" time="0.573"/>
+  <system-out><![CDATA[Product Already registered
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
